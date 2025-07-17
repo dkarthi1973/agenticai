@@ -27,7 +27,7 @@ Main Files
 
 Installation
 
-    Clone the repository
+    Clone the repository(go to sub folder try simple and then try another one same as simple with log and db integration)
 
     Install dependencies:
     bash
